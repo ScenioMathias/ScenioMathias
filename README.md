@@ -35,6 +35,7 @@ ensuring compliance with deadlines, costs and quality required by the organizati
 
 Currently working in Information Technology Assistant at Assaí Atacadista
 <br/>
+
  **HelpDesk**.
 </p>
 <hr>
