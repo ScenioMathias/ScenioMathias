@@ -31,10 +31,6 @@ ensuring compliance with deadlines, costs and quality required by the organizati
 ###
 
 <div>
-<p>
-
-Currently working in Information Technology Assistant at Sicoob
-<br/>
 
  **HelpDesk**.
 </p>
