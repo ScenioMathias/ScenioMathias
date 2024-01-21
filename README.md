@@ -30,9 +30,6 @@ ensuring compliance with deadlines, costs and quality required by the organizati
 
 ###
 
-<div>
 
- **HelpDesk**.
-</p>
 <hr>
 </div>
