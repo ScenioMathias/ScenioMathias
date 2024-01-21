@@ -13,6 +13,7 @@ ensuring compliance with deadlines, costs and quality required by the organizati
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/ScenioMathias)](https://www.linkedin.com/in/scenio-mathias-6a88a2149/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/ScenioMathias)](scenio123araujo@gmail.com)
 [![ResearchGate Badge](https://img.shields.io/badge/-Researchgate-blue?style=for-the-badge&logo=Researchgate&logoColor=white&link=https://github.com/ScenioMathias)](https://www.researchgate.net/profile/Scenio-Araujo)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/ScenioMathias)](https://www.kaggle.com/mathiasaraujo)
 </h4>
 
 ## ⭐ Information about my GitHub account
